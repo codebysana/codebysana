@@ -1,69 +1,66 @@
-# 👋 Hi, I'm Sana! (aka codebysana)
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<p align="center"><b>MERN Stack developer from [Your Country]</b></p>
 
-🌟 **Skill Learner | MERN Stack Developer | Project Builder | Teaching Enthusiast**
-
----
-
-## ![image1](image1) <!-- Profile Views Counter from image1 -->
-
----
-
-## 🚀 About Me
-
-- 💻 Dedicated to continuous skill development and exploring the latest in tech.
-- 🛠️ Specialized in the **MERN Stack** (MongoDB, Express.js, React, Node.js).
-- 🏪 Experienced in building scalable solutions, including a robust **Multivendor Project**.
-- 🧑‍🏫 Passionate about teaching and sharing knowledge with others.
-- 🌱 Always curious, always growing.
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=codebysana&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysana&theme=default" alt="GitHub Streak"/>
 </p>
 
----
+<ul>
+  <li>📝 I regularly write articles on <a href="https://medium.com/@yourusername">Medium</a></li>
+  <li>🌱 I'm currently working on skills like MERN, DSA <b>and many more...</b></li>
+  <li>📫 How to reach me <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+</ul>
 
-## 📊 Stats & Languages
+<h3>Blogs posts</h3>
+<!-- Add blog post links here -->
 
-![image2](image2) <!-- Contains: Connect with me, Languages and Tools, Most Used Languages, GitHub Stats, Contributions -->
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/></a>
+  <a href="https://medium.com/@yourusername"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="36"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-original.svg" width="36"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hashicorp/hashicorp-original.svg" width="36"/></a>
+</p>
 
----
+<h3>Languages and Tools:</h3>
+<p>
+  <!-- Add your tech stack icons here, e.g.: -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
+  <!-- Add others as needed -->
+</p>
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dummy-profile/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/)
-
----
-
-## ✨ Fun Facts
-
-- 🌎 Love collaborating and exchanging ideas with fellow developers.
-- 🧑‍🏫 Enjoy making complex concepts easy to understand.
-- 💡 Always on the lookout for creative projects and new inspirations.
-
----
-
-_Thanks for visiting my profile! Let’s connect, collaborate, and create something amazing together._
+<table>
+  <tr>
+    <td>
+      <h4>Most Used Languages</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysana&layout=compact&hide=Jupyter%20Notebook&langs_count=6&theme=default"/>
+    </td>
+    <td>
+      <h4>codebysana's GitHub Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=codebysana&show_icons=true&count_private=true&hide=issues&theme=default"/>
+      <br/>
+      <b>Total Stars Earned:</b> <!-- Use GitHub API or stats card -->
+      <br/>
+      <b>Total Commits (2025):</b> <!-- Use GitHub API or stats card -->
+      <br/>
+      <b>Total PRs:</b> <!-- Use GitHub API or stats card -->
+      <br/>
+      <b>Total Issues:</b> <!-- Use GitHub API or stats card -->
+      <br/>
+      <b>Contributed to (last year):</b> <!-- Use GitHub API or stats card -->
+      <br/>
+      <b>Grade:</b> <!-- Use a badge or custom grade if you like -->
+    </td>
+  </tr>
+</table>
