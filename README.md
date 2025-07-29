@@ -1,7 +1,9 @@
+<h1 align="center">Hi 👋, I'm Sana Younas</h1>
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Sana!;Welcome+to+my+Github+Profile;Happy+to+see+you+here!&center=true&width=400&height=40" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Code+with+Purpose;Building+Web+Apps+with+MERN;Always+Learning+Something+New&center=true&width=500&height=40" />
 </p>
+
 
 <!-- Profile Views and Streak -->
 <p align="left">
@@ -12,11 +14,11 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate full-stack developer from **[Your Country]**  
+- 💻 Passionate full-stack developer from **PAKISTAN**  
 - 🛠️ Specialized in the **MERN Stack** (MongoDB, Express.js, React, Node.js)  
-- 🧑‍🏫 Sharing what I learn and building meaningful projects  
+- 🏆 Sharing what I learn and building meaningful projects  
 - 🌱 Continuously learning and growing  
-- 💡 Love to teach, code, and collaborate  
+- 🔥 Love to teach, code, and collaborate  
 
 ---
 
@@ -55,10 +57,10 @@
       <h4>📊 My GitHub Stats</h4>
       <img src="https://github-readme-stats.vercel.app/api?username=codebysana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
     </td>
-    <td>
-      <h4>🔥 GitHub Streak</h4>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysana&theme=tokyonight&hide_border=true" height="150"/>
-    </td>
+   <td>
+  <h4>🔥 GitHub Streak</h4>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysana&theme=default&hide_border=false" height="150" />
+</td>
   </tr>
 </table>
 
@@ -66,9 +68,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codebysana/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sana.younas0530@gmail.com)
 
 ---
 
