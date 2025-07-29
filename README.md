@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tahira Batool</h1>
+<h1 align="center">Hi 👋, I'm Sana Younas</h1>
 <h3 align="center">🚀 MERN Stack Developer | Tech Enthusiast from Pakistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imtahirabatool&label=Profile%20views&color=0e75b6&style=flat" alt="imtahirabatool" />
+  <img src="https://komarev.com/ghpvc/?username=imtahirabatool&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
 
 ---
