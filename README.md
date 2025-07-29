@@ -4,9 +4,8 @@
 </p>
 
 <!-- Profile Views and Streak -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=codebysana&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -55,6 +54,9 @@
     <td align="center" width="50%">
       <h4>📊 My GitHub Stats</h4>
       <img src="https://github-readme-stats.vercel.app/api?username=codebysana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+    </td>
+    <td>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
