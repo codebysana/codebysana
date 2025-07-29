@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sana Younas</h1>
+<h1 align="center">Hi 👋, I'm Tahira Batool</h1>
 <h3 align="center">🚀 MERN Stack Developer | Tech Enthusiast from Pakistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imtahirabatool&label=Profile%20views&color=0e75b6&style=flat" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=imtahirabatool&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -77,4 +77,4 @@
 
 ---
 
-<p align="center">Thank you for visiting my profile! ⭐ Feel free to check out my repositories.</p>
+<p align="center">✨ Thanks for stopping by! Happy coding 👩‍💻</p>
