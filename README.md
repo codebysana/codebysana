@@ -6,7 +6,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+views&color=blueviolet&style=flat" alt="profile views" />
+ <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat" />
 </p>
 
 ---
