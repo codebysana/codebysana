@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+CodeBySana!;Welcome+to+my+Github+Profile;Happy+to+see+you+here!&center=true&width=400&height=40" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Sana!;Welcome+to+my+Github+Profile;Happy+to+see+you+here!&center=true&width=400&height=40" />
 </p>
 
 <!-- Profile Views and Streak -->
@@ -56,7 +56,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=codebysana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
     </td>
     <td>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <h4>🔥 GitHub Streak</h4>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysana&theme=tokyonight&hide_border=true" height="150"/>
     </td>
   </tr>
 </table>
