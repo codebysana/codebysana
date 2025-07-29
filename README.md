@@ -4,19 +4,16 @@
 
 ---
 
-<!-- ✅ Genuine Profile Views -->
-<p align="center">
+## 🚀 About Me
+
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=blueviolet&style=flat" alt="GitHub profile views" />
 </p>
 
----
-
-## 🚀 About Me
-
-- 💻 Dedicated to continuous skill development and exploring the latest in tech.
-- 🛠️ Specialized in the **MERN Stack** (MongoDB, Express.js, React, Node.js).
-- 🏪 Experienced in building scalable solutions, including a robust **Multivendor Project**.
-- 🧑‍🏫 Passionate about teaching and sharing knowledge with others.
+- 💻 Dedicated to continuous skill development and exploring the latest in tech.  
+- 🛠️ Specialized in the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
+- 🏪 Experienced in building scalable solutions, including a robust **Multivendor Project**.  
+- 🧑‍🏫 Passionate about teaching and sharing knowledge with others.  
 - 🌱 Always curious, always growing.
 
 ---
@@ -48,15 +45,9 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -73,8 +64,8 @@
 
 ## ✨ Fun Facts
 
-- 🌎 Love collaborating and exchanging ideas with fellow developers.
-- 🧑‍🏫 Enjoy making complex concepts easy to understand.
+- 🌎 Love collaborating and exchanging ideas with fellow developers.  
+- 🧑‍🏫 Enjoy making complex concepts easy to understand.  
 - 💡 Always on the lookout for creative projects and new inspirations.
 
 ---
