@@ -1,75 +1,80 @@
-<!-- Profile Banner -->
+<h1 align="center">Hi 👋, I'm Tahira Batool</h1>
+<h3 align="center">🚀 MERN Stack Developer | Tech Enthusiast from Pakistan</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+CodeBySana!;Welcome+to+my+Github+Profile;Happy+to+see+you+here!&center=true&width=400&height=40" />
+  <img src="https://komarev.com/ghpvc/?username=imtahirabatool&label=Profile%20views&color=0e75b6&style=flat" alt="imtahirabatool" />
 </p>
 
-<!-- Profile Views and Streak -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codebysana&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysana&theme=default" alt="GitHub Streak" />
+---
+
+### 👩‍💻 About Me
+
+- 🌐 Full-stack developer passionate about building web apps with **MERN** technologies.
+- ✍️ I write tech blogs on [Medium](https://medium.com/@imtahirabatool).
+- 🧠 Currently exploring **Data Structures & Algorithms** and advanced **TypeScript** patterns.
+- 📫 Reach me at **imtahirabatool04@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/imtahirabatool/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@imtahirabatool" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white"/></a>
+  <a href="mailto:imtahirabatool04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://hashnode.com/@imtahirabatool" target="_blank"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white"/></a>
 </p>
 
-<!-- Short Intro -->
-<h2 align="center">🙋‍♂️ About Me</h2>
-<div align="center">
-  Passionate full-stack developer from <b>[Your Country]</b> 🚀<br>
-  Currently building projects with <b>MERN</b>, leveling up my DSA skills, and sharing what I learn along the way!
-</div>
+---
 
-<br>
+### 🛠️ Languages & Tools
 
-<!-- Contact & Blog -->
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>Get in touch</h3>
-      <ul>
-        <li>🔗 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a></li>
-        <li>✍️ <a href="https://medium.com/@yourusername">Medium articles</a></li>
-        <li>📫 <a href="mailto:your.email@example.com">Email me</a></li>
-      </ul>
-      <h3>Latest Blogs</h3>
-      <ul>
-        <li><a href="#">Why MERN Is Still Relevant in 2025</a></li>
-        <li><a href="#">Mastering React with Hooks</a></li>
-        <!-- Add more as needed -->
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h3>Toolbox</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-        <!-- Add your favorites -->
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Stats and Languages -->
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h4>🌈 Most Used Languages</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysana&layout=compact&theme=default" height="150"/>
-    </td>
-    <td align="center" width="50%">
-      <h4>📊 My GitHub Stats</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=codebysana&show_icons=true&theme=default" height="150"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Fun Fact or Motivational Quote -->
-<p align="center">
-  <b>"Code is like humor. When you have to explain it, it’s bad." – Cory House</b>
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imtahirabatool&show_icons=true&theme=default&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtahirabatool&layout=compact&hide_border=true&theme=default" width="47%" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=imtahirabatool&theme=default" alt="GitHub streak" />
+</p>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imtahirabatool&theme=flat&column=7&margin-w=5" />
+</p>
+
+---
+
+### ✨ Fun Fact
+
+- I love building clean UIs and optimizing performance.
+- Always up for a coding challenge and contributing to open-source!
+
+---
+
+<p align="center">Thank you for visiting my profile! ⭐ Feel free to check out my repositories.</p>
