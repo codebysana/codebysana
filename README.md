@@ -3,9 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+CodeBySana!;Welcome+to+my+Github+Profile;Happy+to+see+you+here!&center=true&width=400&height=40" />
 </p>
 
+<!-- Profile Views and Streak -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codebysana&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
-<!-- 🚀 About Me -->
 ## 🚀 About Me
 
 - 💻 Passionate full-stack developer from **[Your Country]**  
@@ -13,33 +18,6 @@
 - 🧑‍🏫 Sharing what I learn and building meaningful projects  
 - 🌱 Continuously learning and growing  
 - 💡 Love to teach, code, and collaborate  
-
----
-
-<!-- 🧮 Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=codebysana&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
-</p>
-
----
-
-<!-- 📈 GitHub Stats Row -->
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h4>📊 GitHub Stats</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=codebysana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-    </td>
-    <td align="center" width="33%">
-      <h4>🌐 Most Used Languages</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysana&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-    </td>
-    <td align="center" width="33%">
-      <h4>🔥 GitHub Streak</h4>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysana&theme=tokyonight&hide_border=true" height="150"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -63,6 +41,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 </p>
+
+---
+
+## 📈 GitHub Stats & Languages
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h4>🌐 Most Used Languages</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysana&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+    </td>
+    <td align="center" width="50%">
+      <h4>📊 My GitHub Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=codebysana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
