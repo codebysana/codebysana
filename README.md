@@ -70,11 +70,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codebysana/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sana.younas0530@gmail.com)
-
----
-
-## ✨ Fun Fact
-
-<p align="center">
-  <b>"Code is like humor. When you have to explain it, it’s bad." – Cory House</b>
-</p>
