@@ -1,26 +1,16 @@
-<h1 align="center">Sana Younas</h1>
-<h3 align="center">Full-Stack MERN Developer | Building Web Apps with Purpose</h3>
+<h1 align="center">Sana Younas</h1> <p align="center">Software Engineer &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Agentic AI</p> <p align="center"> <a href="https://www.linkedin.com/in/codebysana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/sana-younas"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a> <a href="https://medium.com/codebysana"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="mailto:sana.younas0530@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/codebysana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/codebysana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/codebysana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://leetcode.com/sana-younas"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://medium.com/codebysana"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="mailto:sana.younas0530@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- 
-</p>
+## About
 
----
+I'm a full-stack developer from Pakistan with a strong focus on the MERN Stack (MongoDB, Express.js, React, Node.js). Alongside my development work, I've worked as an LLM Trainer at Turing, where I helped improve AI reasoning and evaluated model outputs for accuracy and quality. I enjoy the balance between building real, working products and digging into how AI systems think and I'm always looking to learn something new along the way.
 
-## 🎯 Professional Summary
+## 🚀 Current Focus
 
-Full-stack developer from **Pakistan**, specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js). I build meaningful, real-world applications and enjoy sharing what I learn along the way always growing, always shipping.
-
-### 🚀 Current Focus
-
-- 💻 Building end-to-end web applications with the MERN stack
-- 🏆 Sharing what I learn and building meaningful projects
-- 🌱 Continuously learning and expanding into new technologies
-- 🔥 Passionate about teaching, coding, and collaborating
+- Building end-to-end web applications with the MERN stack
+- Learning the ins and outs of microservices architecture
+- Exploring AI from practical tooling to agentic workflows
+- Continuously learning and expanding into new technologies
+- Passionate about teaching, coding, and collaborating
 
 ---
 
@@ -82,3 +72,5 @@ Full-stack developer from **Pakistan**, specializing in the **MERN Stack** (Mong
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=codebysana&theme=tokyonight&hide_border=true" height="150" />
 </p>
+
+---
